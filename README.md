@@ -1,12 +1,12 @@
 # <p align="center" style="color:#cb3349" > [<< Source abaza >> (Final Version)](https://telegram.me/jjxxh)
 
-<p align="center" style="color: #14635c;" > سورس اباظة الاقوى والاحدث لحمايه المجموعات في التلكرام
+<p align="center" style="color: #14635c;" > سورس حمد الاقوى والاحدث لحمايه المجموعات في التلكرام
 
 ***
 
-# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/jjxxh)
+# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/tft4t)
 ```sh
-git clone https://https://github.com/iamabazawhourhhhhhh/abaza.git ;cd MES;chmod +x ins;./ins
+git clone https://https://github.com/KDJEONDHOSN/abaza.git ;cd MES;chmod +x ins;./ins
 ```
 ```
 » فقط أضغط على الكود ☝️ وقم بنسخه
@@ -23,7 +23,7 @@ Example
 
 ./@lnaxbot/run
 ```
-# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/xb_0b)
+# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/BBQQ8)
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
