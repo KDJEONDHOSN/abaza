@@ -7,7 +7,6 @@
 # <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/tft4t)
 ```sh
 git clone https://github.com/KDJEONDHOSN/abaza.git ;cd abaza ;sudo chmod +x ins;sudo chmod +x run ;./run
-
 ```
 ```
 » فقط أضغط على الكود ☝️ وقم بنسخه
