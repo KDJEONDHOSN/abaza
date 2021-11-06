@@ -1,6 +1,3 @@
-
-
-
 function dl_cb(a,d)  end
 
 function GetInputFile(file)
