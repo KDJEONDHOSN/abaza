@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [<< Source abaza >> (Final Version)](https://telegram.me/jjxxh)
+# <p align="center" style="color:#cb3349" > [<< Source Hamd >> (Final Version)](https://telegram.me/tft4t)
 
 <p align="center" style="color: #14635c;" > سورس حمد الاقوى والاحدث لحمايه المجموعات في التلكرام
 
@@ -15,7 +15,7 @@ git clone https://github.com/KDJEONDHOSN/abaza.git ;cd abaza ;sudo chmod +x ins;
 » تدخل مـعلومـآتگ مـن توگن وايديك 
 » وسـوف يعمـل آلبوت بالسـگرين تلقآئيآ ...
 ```
-# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/jjxxh)
+# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/tft4t)
 ```sh
 ./UserBot/run
 
@@ -23,7 +23,7 @@ Example
 
 ./@lnaxbot/run
 ```
-# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/BBQQ8)
+# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/wtttw)
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
